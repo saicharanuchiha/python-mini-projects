@@ -1,7 +1,4 @@
-def turn_right():
-    turn_left()
-    turn_left()
-    turn_left()
+from robot_helpers import turn_right
 
 
 def jump():
