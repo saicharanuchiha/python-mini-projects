@@ -42,4 +42,3 @@ def calculate():
             calculate()
 
 calculate()
-
