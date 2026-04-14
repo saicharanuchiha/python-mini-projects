@@ -27,5 +27,16 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 To run any of these projects locally:
 
 1. Clone the repository:
+
    ```bash
-   git clone [https://github.com/saicharanuchiha/python-mini-projects.git](https://github.com/saicharanuchiha/python-mini-projects.git)
+   git clone https://github.com/saicharanuchiha/python-mini-projects.git
+
+2. Navigate into the specific project directory:
+
+   ```bash
+   cd python-mini-projects/blackjack
+
+3. Execute the main Python file:
+
+   ```bash
+   python main.py
