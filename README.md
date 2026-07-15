@@ -7,16 +7,17 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 
 ## 🗂️ Project Index
 
-| Project Name | Core Concepts Mastered |
-| :--- | :--- |
-| **[Blackjack](./blackjack)** | Capstone Project: Complex conditional logic, dynamic list mutation (handling Aces), and asynchronous game states via nested `while` loops. |
-| **[Higher Lower](./higher_lower)** | Lists of Dictionaries: Data extraction, comparison algorithms, and conditional variable swapping (King of the Hill variant). |
-| **[Calculator](./calculator)** | First-Class Functions: Storing mathematical operations within dictionaries for dynamic execution, recursive application state resets. |
-| **[Secret Auction](./blind_auction)** | Dictionaries: Dynamic key-value generation, continuous user input parsing, and custom maximum-value calculation algorithms. |
+| Project Name                                       | Core Concepts Mastered |
+|:---------------------------------------------------| :--- |
+| **[Blackjack](./blackjack)**                       | Capstone Project: Complex conditional logic, dynamic list mutation (handling Aces), and asynchronous game states via nested `while` loops. |
+| **[Higher Lower](./higher_lower)**                 | Lists of Dictionaries: Data extraction, comparison algorithms, and conditional variable swapping (King of the Hill variant). |
+| **[Calculator](./calculator)**                     | First-Class Functions: Storing mathematical operations within dictionaries for dynamic execution, recursive application state resets. |
+| **[Secret Auction](./blind_auction)**              | Dictionaries: Dynamic key-value generation, continuous user input parsing, and custom maximum-value calculation algorithms. |
 | **[Number Guessing Game](./number_guessing_game)** | Variable Scope: Managing global vs. local scope, utilizing parameters and return values, and defining Global Constants for config states. |
-| **[Hangman](./hangman)** | State Management: String manipulation, list evaluation, and multi-file modular architecture. |
-| **[Caesar Cipher](./caesar_cypher)** | List Indexing: Dynamic list index wrapping via modulo arithmetic to handle encryption/decryption state shifts. |
-| **[Reeborg Maze/Hurdles](./reeborg_maze)** | Algorithmic Logic: Developing pathfinding solutions (Right Wall Follower) using strict `while` and `if/elif` controls. |
+| **[Hangman](./hangman)**                           | State Management: String manipulation, list evaluation, and multi-file modular architecture. |
+| **[Caesar Cipher](./caesar_cypher)**               | List Indexing: Dynamic list index wrapping via modulo arithmetic to handle encryption/decryption state shifts. |
+| **[Reeborg Maze/Hurdles](./reeborg_maze)**         | Algorithmic Logic: Developing pathfinding solutions (Right Wall Follower) using strict `while` and `if/elif` controls. |
+| **[Hirst Painting](./hirst_painting)**             | External Package Integration: Extracting color palettes with `colorgram`, nested loops with modulo-based row offsets, and vector-based coordinate geometry using `turtle`. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
