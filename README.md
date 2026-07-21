@@ -18,6 +18,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | **[Caesar Cipher](./caesar_cypher)**               | List Indexing: Dynamic list index wrapping via modulo arithmetic to handle encryption/decryption state shifts. |
 | **[Reeborg Maze/Hurdles](./reeborg_maze)**         | Algorithmic Logic: Developing pathfinding solutions (Right Wall Follower) using strict `while` and `if/elif` controls. |
 | **[Hirst Painting](./hirst_painting)**             | External Package Integration: Extracting color palettes with `colorgram`, nested loops with modulo-based row offsets, and vector-based coordinate geometry using `turtle`. |
+| [Snake Game](./snake_game) | OOP Architecture: Multi-class game engine (`Snake`, `Food`, `Scoreboard`), list segment shifts, coordinate collision detection, and screen frame updates via `tracer(0)`. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
