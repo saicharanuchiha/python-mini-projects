@@ -20,6 +20,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | **[Hirst Painting](./hirst_painting)**             | External Package Integration: Extracting color palettes with `colorgram`, nested loops with modulo-based row offsets, and vector-based coordinate geometry using `turtle`. |
 | [Snake Game](./snake_game) | OOP Architecture: Multi-class game engine (`Snake`, `Food`, `Scoreboard`), list segment shifts, coordinate collision detection, and screen frame updates via `tracer(0)`. |
 | [Pong Arcade Game](./pong_game) | 2D Vector Physics: Dual-paddle state management, dynamic speed scaling via sleep intervals, coordinate collision reflection math, and dual-player score tracking. |
+| [Turtle Crossing](./turtle_crossing) | Dynamic Pipeline Mechanics: Object spawner throttling (`1-in-6` frame rolls), multi-target distance collision checks, and game-loop difficulty acceleration. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
