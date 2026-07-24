@@ -18,7 +18,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | **[Caesar Cipher](./caesar_cypher)**               | List Indexing: Dynamic list index wrapping via modulo arithmetic to handle encryption/decryption state shifts. |
 | **[Reeborg Maze/Hurdles](./reeborg_maze)**         | Algorithmic Logic: Developing pathfinding solutions (Right Wall Follower) using strict `while` and `if/elif` controls. |
 | **[Hirst Painting](./hirst_painting)**             | External Package Integration: Extracting color palettes with `colorgram`, nested loops with modulo-based row offsets, and vector-based coordinate geometry using `turtle`. |
-| [Snake Game](./snake_game) | OOP Architecture: Multi-class game engine (`Snake`, `Food`, `Scoreboard`), list segment shifts, coordinate collision detection, and screen frame updates via `tracer(0)`. |
+| [Snake Game](./snake_game) | OOP Architecture: Multi-class game engine (`Snake`, `Food`, `Scoreboard`), list segment shifts, coordinate collision detection, and persistent high-score tracking via File I/O. |
 | [Pong Arcade Game](./pong_game) | 2D Vector Physics: Dual-paddle state management, dynamic speed scaling via sleep intervals, coordinate collision reflection math, and dual-player score tracking. |
 | [Turtle Crossing](./turtle_crossing) | Dynamic Pipeline Mechanics: Object spawner throttling (`1-in-6` frame rolls), multi-target distance collision checks, and game-loop difficulty acceleration. |
 
