@@ -21,6 +21,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Snake Game](./snake_game) | OOP Architecture: Multi-class game engine (`Snake`, `Food`, `Scoreboard`), list segment shifts, coordinate collision detection, and persistent high-score tracking via File I/O. |
 | [Pong Arcade Game](./pong_game) | 2D Vector Physics: Dual-paddle state management, dynamic speed scaling via sleep intervals, coordinate collision reflection math, and dual-player score tracking. |
 | [Turtle Crossing](./turtle_crossing) | Dynamic Pipeline Mechanics: Object spawner throttling (`1-in-6` frame rolls), multi-target distance collision checks, and game-loop difficulty acceleration. |
+| [Mail Merge Generator](./mail_merge) | File Processing & Batch Automation: Dynamic relative file pathing, relative I/O stream reading/writing, and string manipulation (`strip()`, `replace()`). |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
