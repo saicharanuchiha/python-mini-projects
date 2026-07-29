@@ -22,6 +22,8 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Pong Arcade Game](./pong_game) | 2D Vector Physics: Dual-paddle state management, dynamic speed scaling via sleep intervals, coordinate collision reflection math, and dual-player score tracking. |
 | [Turtle Crossing](./turtle_crossing) | Dynamic Pipeline Mechanics: Object spawner throttling (`1-in-6` frame rolls), multi-target distance collision checks, and game-loop difficulty acceleration. |
 | [Mail Merge Generator](./mail_merge) | File Processing & Batch Automation: Dynamic relative file pathing, relative I/O stream reading/writing, and string manipulation (`strip()`, `replace()`). |
+| [U.S. States Game](./us_states_game) | Data Visualization & Game Logic: Pandas CSV ingestion, dynamic coordinate mapping via Turtle, and missing state export. |
+| [Squirrel Census Analysis](./squirrel_census_analysis) | Data Aggregation & EDA: Pandas value counts, color filtering on NYC Central Park census data, and DataFrame CSV exports. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
