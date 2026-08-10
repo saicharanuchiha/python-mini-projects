@@ -27,6 +27,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [NATO Alphabet Converter](./nato_alphabet) | Data Mapping & Comprehension: Ingesting CSV lookup tables via Pandas `.iterrows()`, dictionary comprehension construction, and string iteration mapping. |
 | [Turtle Race](./turtle_race) | Interactive Event Loops: Object-oriented turtle array instantiation, user bet input state, and randomized coordinate physics (`random.randint`). |
 | [Etch-A-Sketch](./etch_a_sketch) | Event-Driven Programming: Higher-order functions, event listeners (`screen.onkey`), canvas state clearing, and turtle coordinate resets. |
+| [Mile to Km Converter](./tkinter) | Desktop GUI Development: Tkinter widget positioning with `.grid()`, padding, dynamic label configuration (`.config()`), and event-driven entry parsing. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
