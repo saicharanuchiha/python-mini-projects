@@ -29,6 +29,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Etch-A-Sketch](./etch_a_sketch) | Event-Driven Programming: Higher-order functions, event listeners (`screen.onkey`), canvas state clearing, and turtle coordinate resets. |
 | [Mile to Km Converter](./tkinter) | Desktop GUI Development: Tkinter widget positioning with `.grid()`, padding, dynamic label configuration (`.config()`), and event-driven entry parsing. |
 | [Pomodoro App](./pomodoro_app) | Desktop GUI & Dynamic Loops: Tkinter `Canvas` widget image layering, recursive non-blocking loops with `window.after()`, and session state management. |
+| [Password Manager](./password_manager) | Desktop GUI & File Persistence: Tkinter layout, `messagebox` dialog validation, dynamic password generation, and local text/data file I/O. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
