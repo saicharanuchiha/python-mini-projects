@@ -30,6 +30,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Mile to Km Converter](./tkinter) | Desktop GUI Development: Tkinter widget positioning with `.grid()`, padding, dynamic label configuration (`.config()`), and event-driven entry parsing. |
 | [Pomodoro App](./pomodoro_app) | Desktop GUI & Dynamic Loops: Tkinter `Canvas` widget image layering, recursive non-blocking loops with `window.after()`, and session state management. |
 | [Password Manager](./password_manager) | Desktop GUI & File Persistence: Tkinter layout, `messagebox` dialog validation, dynamic password generation, and local text/data file I/O. |
+| [Flash Card App](./flash_card) | **Capstone GUI & Data Persistence**: Language learning desktop application built with Tkinter and Pandas. Features asynchronous card flipping (`window.after`), dynamic progress tracking with CSV serialization (`words_to_learn.csv`), and fallback error handling. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
