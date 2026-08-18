@@ -99,7 +99,7 @@ email_label.grid(column=0, row=2)
 
 email_entry = Entry(width =50)
 email_entry.grid(column=1, row=2, columnspan=2)
-email_entry.insert(0, "sai.cool20@yahoo.com")
+email_entry.insert(0, "placeholder@yahoo.com")
 
 password_label = Label(text="Password:")
 password_label.grid(column=0, row=3)
