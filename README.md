@@ -33,6 +33,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Flash Card App](./flash_card) | **Capstone GUI & Data Persistence**: Language learning desktop application built with Tkinter and Pandas. Features asynchronous card flipping (`window.after`), dynamic progress tracking with CSV serialization (`words_to_learn.csv`), and fallback error handling. |
 | [Kanye Quotes App](./kanye_quotes) | **API Integration & Tkinter GUI**: Live REST API consumption using `requests.get()`, HTTP response validation (`raise_for_status()`), dynamic JSON payload extraction, and canvas text wrapping. |
 | [ISS Overhead Notifier](./ISS_overhead) | **Automated API & SMTP Alert System**: Automated tracking of the International Space Station coordinates via Open-Notify API, sunrise/sunset calculations, position boundary checks ($\pm 5^\circ$), and email alerting via `smtplib`. |
+| [Quizzler App](./quizzler) | **GUI & API Architecture**: Desktop trivia application built with Tkinter, Requests, and the Open Trivia DB API[cite: 4, 5]. Features modular OOP architecture[cite: 1, 2, 3, 4], Python type hinting[cite: 4], HTML entity unescaping (`html.unescape`)[cite: 3], and timed canvas visual feedback[cite: 4]. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
