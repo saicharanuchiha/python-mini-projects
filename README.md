@@ -34,6 +34,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Kanye Quotes App](./kanye_quotes) | **API Integration & Tkinter GUI**: Live REST API consumption using `requests.get()`, HTTP response validation (`raise_for_status()`), dynamic JSON payload extraction, and canvas text wrapping. |
 | [ISS Overhead Notifier](./ISS_overhead) | **Automated API & SMTP Alert System**: Automated tracking of the International Space Station coordinates via Open-Notify API, sunrise/sunset calculations, position boundary checks ($\pm 5^\circ$), and email alerting via `smtplib`. |
 | [Quizzler App](./quizzler) | **GUI & API Architecture**: Desktop trivia application built with Tkinter, Requests, and the Open Trivia DB API[cite: 4, 5]. Features modular OOP architecture[cite: 1, 2, 3, 4], Python type hinting[cite: 4], HTML entity unescaping (`html.unescape`)[cite: 3], and timed canvas visual feedback[cite: 4]. |
+| [Monday Motivation Emailer](./monday_motivation) | **Automation & SMTPLib**: Automated weekly email dispatcher using `smtplib` and `datetime.weekday()` to parse quote files and send automated emails via secure TLS connections. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
