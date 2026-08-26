@@ -37,6 +37,7 @@ As an aspiring data analyst, this repository serves as a foundational sandbox. E
 | [Monday Motivation Emailer](./monday_motivation) | **Automation & SMTPLib**: Automated weekly email dispatcher using `smtplib` and `datetime.weekday()` to parse quote files and send automated emails via secure TLS connections. |
 | [Rain Alert SMS](./rain_alert) | **API Automation & SMS Notification**: Weather monitoring service consuming OpenWeatherMap API forecast data, slicing 12-hour predictive payload lists, evaluating weather condition codes (`id < 700`), and dispatching automated SMS alerts via Twilio. |
 | [Stock News Alert](./stock_news) | **Multi-API Data Pipeline**: Automated financial monitoring service consuming Alpha Vantage and NewsAPI endpoints. Calculates day-over-day stock price deltas, flags volatility thresholds (>5%), and delivers contextual news briefs via Twilio. |
+| [Workout Habit Tracker](./habit_tracker) | **REST API & HTTP Header Auth**: Quantitative habit logging client interfacing with Pixela. Implements dynamic datetime formatting (`strftime`), `json.dumps` payload serialization, custom header authentication (`X-USER-TOKEN`), and full CRUD/HTTP method cycles. |
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
